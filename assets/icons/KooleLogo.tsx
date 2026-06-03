@@ -4,7 +4,7 @@ interface KooleLogoProps {
   color?: string;
 }
 
-const KooleLogo = ({ width = "1254pt", height = "1254pt", color = "#6C3BFF" }: KooleLogoProps) => {
+const KooleLogo = ({ width = "1254pt", height = "1254pt", color = "#9333ea" }: KooleLogoProps) => {
   return (
     <svg
       version="1.0"
